@@ -3,7 +3,7 @@ language: "𝐄ɴɢʟɪsʜ "
 
 
 # ɴᴀᴍᴇ ᴏғ ᴘᴇᴏᴘʟᴇ(s) ᴡʜᴏ ᴡᴏʀᴋᴇᴅ ᴏɴ ᴛʜɪs ᴛʀᴀɴsʟᴀᴛɪᴏɴ
-authors: "@SIAmKira"
+authors: "@Xeno_Kakarot"
 
 # ʟᴀɴɢᴜᴀɢᴇs
 curr_chat_lang: "ʜᴇʏ. ʏᴏᴜʀ ᴄᴜʀʀᴇɴᴛ ʟᴀɴɢᴜᴀɢᴇ ɪs {}, sᴇʟᴇᴄᴛ ᴛʜᴇ ᴏɴᴇ ʏᴏᴜ ᴡᴀɴᴛ ғʀᴏᴍ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ʙᴇʟᴏᴡ :)"
@@ -12,7 +12,7 @@ set_chat_lang: "ɢʀᴇᴀᴛ, {} ɪᴛ ɪs ( ғʀᴏᴍ ɴᴏᴡ ᴏɴ!"
 
 
 pm_start_text: |
-   I Am Your Hinata bot 
+   I Am Your dark bot 
    let's  Unleash Organized Line Management, Music bot, and Futuristic AI Capabilities for Effortless Group Control! ◎🎵✨ Click Help button For More."
 grp_start_text: "ʜɪ, ɪ'ᴍ ᴀʟɪᴠᴇ ʙᴀʙʏ."
 
