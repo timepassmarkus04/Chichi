@@ -8,19 +8,19 @@ load_dotenv()
 class Config(object):
     LOGGER = True
 
-    API_ID = int(getenv("API_ID", 6))
-    API_HASH = getenv("API_HASH", None)
+    API_ID = int(getenv("API_ID", "23255238"))
+    API_HASH = getenv("API_HASH", "009e3d8c1bdc89d5387cdd8fd182ec15")
+    DEV_USERS = 7078181502
     ARQ_API_KEY = "PMPTTD-HOMLMF-SRBHNH-RZMWXL-ARQ"
     SPAMWATCH_API = None
-    TOKEN = getenv("TOKEN", None)
-    OWNER_ID = int(getenv("OWNER_ID", 5938660179))
-    OWNER_USERNAME = getenv("OWNER_USERNAME", "SIAmKira")
-    SUPPORT_CHAT = getenv("SUPPORT_CHAT", "iBhshdbd")
-    UPDATE_CHAT = getenv("UPDATE_CHAT", "HoshinoXUpdates")
-    LOGGER_ID = int(getenv("LOGGER_ID", "-1001819078701"))
+    TOKEN = getenv("TOKEN", "7258356463:AAE9zEhm9HX36Z2wH_qqX2K726fEh0kDj1w")
+    OWNER_ID = int(getenv("OWNER_ID", 5884969921))
+    OWNER_USERNAME = getenv("OWNER_USERNAME", "The_saiyans_prince")
+    SUPPORT_CHAT = getenv("SUPPORT_CHAT", "lolpagalokigc")
+    UPDATE_CHAT = getenv("UPDATE_CHAT", "lolpagalokigc")
+    LOGGER_ID = int(getenv("LOGGER_ID", "-1002009280180"))
     MONGO_URI = getenv(
-        "MONGO_DB_URI",
-        "mongodb+srv://public:abishnoimf@cluster0.rqk6ihd.mongodb.net/?retryWrites=true&w=majority",
+          "mongodb+srv://Bikash:Bikash@bikash.yl2nhcy.mongodb.net/?retryWrites=true&w=majority",
     )
     DB_NAME = getenv("DB_NAME", "HoshinoBotV3")
     REDIS_URL = "redis://default:wK6ZCiclq4iQKYpgfY90v6kd6WdPfEwl@redis-10186.c263.us-east-1-2.ec2.cloud.redislabs.com:10186/default"
